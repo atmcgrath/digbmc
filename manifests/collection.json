@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_13_1r_11.json",
     "label" : "Trial records: Rodriguez, Mari (1591-1593)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_15_1r_13.json",
+    "label" : "Trial records: Serrana, Mari (1544)"
   } ]
 }
