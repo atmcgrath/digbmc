@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_10_1r_9.json",
     "label" : "Trial records: Paredes, Maria de (1538-1541)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_14_1r_12.json",
+    "label" : "Trial records: Roya, Mayor la (1550)"
   } ]
 }
