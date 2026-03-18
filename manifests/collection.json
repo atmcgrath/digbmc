@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_2_1r_2.json",
     "label" : "Trial records: Garcio, Maior (1550)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_3_1r_3.json",
+    "label" : "Trial records: Gomez, Maria (1540-1550)"
   } ]
 }
