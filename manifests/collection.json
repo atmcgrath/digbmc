@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_8_1r_7.json",
     "label" : "Trial records: Naranja, Maria (1538-1544)."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_10_1r_9.json",
+    "label" : "Trial records: Paredes, Maria de (1538-1541)"
   } ]
 }
