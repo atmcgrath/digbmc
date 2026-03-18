@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_14_1r_12.json",
     "label" : "Trial records: Roya, Mayor la (1550)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_13_1r_11.json",
+    "label" : "Trial records: Rodriguez, Mari (1591-1593)"
   } ]
 }
