@@ -9,6 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_6_1r_5.json",
     "label" : "Trial records: Lopez, Mari (1538-1544)"
-  }
-  ]
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_2_1r_2.json",
+    "label" : "Trial records: Garcio, Maior (1550)"
+  } ]
 }
