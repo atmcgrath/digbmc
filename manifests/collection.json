@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_3_1r_3.json",
     "label" : "Trial records: Gomez, Maria (1540-1550)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://atmcgrath.github.io/digbmc/manifests/Folder_8_1r_7.json",
+    "label" : "Trial records: Naranja, Maria (1538-1544)."
   } ]
 }
